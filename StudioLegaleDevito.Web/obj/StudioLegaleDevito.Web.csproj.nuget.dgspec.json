@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "/Users/daveg/Projects/juicy-lawyer/StudioLegaleDevito.Web/StudioLegaleDevito.Web.csproj": {}
+    "/Users/daveg/Projects/juicylawyer/StudioLegaleDevito.Web/StudioLegaleDevito.Web.csproj": {}
   },
   "projects": {
-    "/Users/daveg/Projects/juicy-lawyer/StudioLegaleDevito.Web/StudioLegaleDevito.Web.csproj": {
+    "/Users/daveg/Projects/juicylawyer/StudioLegaleDevito.Web/StudioLegaleDevito.Web.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "/Users/daveg/Projects/juicy-lawyer/StudioLegaleDevito.Web/StudioLegaleDevito.Web.csproj",
+        "projectUniqueName": "/Users/daveg/Projects/juicylawyer/StudioLegaleDevito.Web/StudioLegaleDevito.Web.csproj",
         "projectName": "StudioLegaleDevito.Web",
-        "projectPath": "/Users/daveg/Projects/juicy-lawyer/StudioLegaleDevito.Web/StudioLegaleDevito.Web.csproj",
+        "projectPath": "/Users/daveg/Projects/juicylawyer/StudioLegaleDevito.Web/StudioLegaleDevito.Web.csproj",
         "packagesPath": "/Users/daveg/.nuget/packages/",
-        "outputPath": "/Users/daveg/Projects/juicy-lawyer/StudioLegaleDevito.Web/obj/",
+        "outputPath": "/Users/daveg/Projects/juicylawyer/StudioLegaleDevito.Web/obj/",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "/Users/daveg/.config/NuGet/NuGet.Config"
@@ -38,9 +38,25 @@
         "net5.0": {
           "targetAlias": "net5.0",
           "dependencies": {
+            "Microsoft.AspNetCore.Mvc": {
+              "target": "Package",
+              "version": "[2.2.0, )"
+            },
             "Microsoft.AspNetCore.Mvc.Razor.RuntimeCompilation": {
               "target": "Package",
-              "version": "[5.0.3, )"
+              "version": "[5.0.9, )"
+            },
+            "Microsoft.EntityFrameworkCore": {
+              "target": "Package",
+              "version": "[5.0.9, )"
+            },
+            "Microsoft.Extensions.DependencyInjection": {
+              "target": "Package",
+              "version": "[5.0.2, )"
+            },
+            "Microsoft.Extensions.Logging": {
+              "target": "Package",
+              "version": "[5.0.0, )"
             }
           },
           "imports": [
