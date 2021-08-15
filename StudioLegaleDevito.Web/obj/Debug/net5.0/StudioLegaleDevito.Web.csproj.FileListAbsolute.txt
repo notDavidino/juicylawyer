@@ -455,7 +455,6 @@
 /Users/daveg/Projects/juicylawyer/StudioLegaleDevito.Web/bin/Debug/net5.0/refs/Microsoft.Extensions.Configuration.UserSecrets.dll
 /Users/daveg/Projects/juicylawyer/StudioLegaleDevito.Web/bin/Debug/net5.0/refs/Microsoft.Extensions.Configuration.Xml.dll
 /Users/daveg/Projects/juicylawyer/StudioLegaleDevito.Web/bin/Debug/net5.0/refs/Microsoft.Extensions.DependencyInjection.Abstractions.dll
-/Users/daveg/Projects/juicylawyer/StudioLegaleDevito.Web/bin/Debug/net5.0/refs/Microsoft.Extensions.DependencyInjection.dll
 /Users/daveg/Projects/juicylawyer/StudioLegaleDevito.Web/bin/Debug/net5.0/refs/Microsoft.Extensions.Diagnostics.HealthChecks.Abstractions.dll
 /Users/daveg/Projects/juicylawyer/StudioLegaleDevito.Web/bin/Debug/net5.0/refs/Microsoft.Extensions.Diagnostics.HealthChecks.dll
 /Users/daveg/Projects/juicylawyer/StudioLegaleDevito.Web/bin/Debug/net5.0/refs/Microsoft.Extensions.FileProviders.Abstractions.dll
@@ -513,7 +512,6 @@
 /Users/daveg/Projects/juicylawyer/StudioLegaleDevito.Web/bin/Debug/net5.0/refs/System.Data.dll
 /Users/daveg/Projects/juicylawyer/StudioLegaleDevito.Web/bin/Debug/net5.0/refs/System.Diagnostics.Contracts.dll
 /Users/daveg/Projects/juicylawyer/StudioLegaleDevito.Web/bin/Debug/net5.0/refs/System.Diagnostics.Debug.dll
-/Users/daveg/Projects/juicylawyer/StudioLegaleDevito.Web/bin/Debug/net5.0/refs/System.Diagnostics.DiagnosticSource.dll
 /Users/daveg/Projects/juicylawyer/StudioLegaleDevito.Web/bin/Debug/net5.0/refs/System.Diagnostics.EventLog.dll
 /Users/daveg/Projects/juicylawyer/StudioLegaleDevito.Web/bin/Debug/net5.0/refs/System.Diagnostics.FileVersionInfo.dll
 /Users/daveg/Projects/juicylawyer/StudioLegaleDevito.Web/bin/Debug/net5.0/refs/System.Diagnostics.Process.dll
@@ -712,3 +710,7 @@
 /Users/daveg/Projects/juicylawyer/StudioLegaleDevito.Web/obj/Debug/net5.0/ref/StudioLegaleDevito.Web.dll
 /Users/daveg/Projects/juicylawyer/StudioLegaleDevito.Web/obj/Debug/net5.0/StudioLegaleDevito.Web.pdb
 /Users/daveg/Projects/juicylawyer/StudioLegaleDevito.Web/obj/Debug/net5.0/StudioLegaleDevito.Web.genruntimeconfig.cache
+/Users/daveg/Projects/juicylawyer/StudioLegaleDevito.Web/bin/Debug/net5.0/Microsoft.EntityFrameworkCore.dll
+/Users/daveg/Projects/juicylawyer/StudioLegaleDevito.Web/bin/Debug/net5.0/Microsoft.EntityFrameworkCore.Abstractions.dll
+/Users/daveg/Projects/juicylawyer/StudioLegaleDevito.Web/bin/Debug/net5.0/Microsoft.Extensions.DependencyInjection.dll
+/Users/daveg/Projects/juicylawyer/StudioLegaleDevito.Web/bin/Debug/net5.0/System.Diagnostics.DiagnosticSource.dll
